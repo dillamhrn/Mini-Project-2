@@ -18,7 +18,6 @@ def tabel_fitur_kasir():
     kasir.add_row(["2.", "Tambah Menu"])
     kasir.add_row(["3.", "Hapus Menu"])
     kasir.add_row(["4.", "Perbarui Menu"])
-    kasir.add_row(["5.", "Keluar/Login Kembali"])
     kasir.add_row(["5.", "Login ulang"])
     kasir.add_row(["6.", "Keluar"])
     print(kasir)
